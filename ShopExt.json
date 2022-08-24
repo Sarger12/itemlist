@@ -1,0 +1,2026 @@
+﻿{
+  "traits": [
+    {
+      "description": "Timmy si užívá pocitu svobody, který nastává, pokud je PAWN_gender ? nahý : nahá. Oblečení může nosit, ale bude mnohem šťastnější bez něj.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Nudist",
+      "name": "nudista",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy začne běsnit, když je někdo zraněn. Neklesne ale na mysli při pohledu na krev a mrtvé. Riziko vyvolání rvačky je čtyřnásobně větší než u ostatních.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Bloodlust",
+      "name": "krvežíznivost",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je mimořádně PAWN_gender ? milý : milá a PAWN_gender ? velkorysý : velkorysá PAWN_gender ? muž : žena. Nikdy neurazí ostatní a někdy pomocí laskavých slov rozveselí lidi kolem sebe. Také nikdy nebude soudit lidi podle jejich vzhledu. jeho laskavost také zvyšuje pravděpodobnost, že se přizpůsobí převládajícím názorům.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "drsňák",
+        "psychopat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "drsňák",
+          "psychopat"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Kind",
+      "name": "laskavý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy nemá žádnou empatii. Utrpením druhých není vůbec PAWN_gender ? obtěžován : obtěžována. Vůbec neřeší, když jsou ostatní zmasakrováni, uvězněni, prodáni do otroctví, nebo nejsou pohřbeni - pokud to nemá vliv na jeho vlastní osobu. Také nepocítí změny nálady díky komunikaci s ostatními.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Psychopath",
+      "name": "psychopat",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se PAWN_gender ? učil : učila, že jíst lidské maso je špatné a hrozné. Ale jednou, kdysi dávno, ho PAWN_gender ? okusil : okusila... a bylo vynikající.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cannibal",
+      "name": "kanibal",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy vždy narovinu říká to, co si myslí, zvláště to, co ho štve, a vůbec nepřemýšlí o tom, zda tím někoho naštve.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Abrasive",
+      "name": "drsňák",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je vysoce inteligentní. Vše se učí daleko rychleji než ostatní, ale bývá docela výstřední.",
+      "stats": [
+        "+75% faktor globálního učení",
+        "+12% práh nervového zhroucení"
+      ],
+      "conflicts": [
+        "nervyzoceli",
+        "psychickyodolný",
+        "nervózní",
+        "psychickynalomený",
+        "pomalýstudent"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "nervyzoceli",
+          "psychickyodolný",
+          "nervózní",
+          "psychickynalomený",
+          "pomalýstudent"
+        ],
+        "stats": [
+          "+75% faktor globálního učení",
+          "+12% práh nervového zhroucení"
+        ]
+      },
+      "defName": "TooSmart",
+      "name": "přílišchytrý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy miluje boj zblízka. Má totiž značně zvýšenou přesnost, když bojuje tváří tvář. Bude mít ale špatnou náladu, pokud bude nosit zbraň na dálku.",
+      "stats": [
+        "Střelecká posedlost inspiration disabled.",
+        "+4 boj zblízka",
+        "-4 střelba",
+        "+4.0 šance na zásah zblízka"
+      ],
+      "conflicts": [
+        "ostrostřelec",
+        "šťastnýstřelec",
+        "slaboch"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ostrostřelec",
+          "šťastnýstřelec",
+          "slaboch"
+        ],
+        "stats": [
+          "Střelecká posedlost inspiration disabled.",
+          "+4 boj zblízka",
+          "-4 střelba",
+          "+4.0 šance na zásah zblízka"
+        ]
+      },
+      "defName": "Brawler",
+      "name": "rváč",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy vůbec neřeší, když se zraní. Má to totiž jinak než ostatní - bolest přímo miluje.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "slaboch"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slaboch"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Masochist",
+      "name": "masochista",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy bývá PAWN_gender ? rád : ráda celou noc vzhůru a klidně prospí celý den od rána do večera.\n\nMá lepší náladu, pokud je v noci vzhůru (23h-6h) a špatnou náladu, pokud je vzhůru během dne (11h-18h).",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NightOwl",
+      "name": "nočnítvor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy musí mít opravdu působivou ložnici. Pokud nedostane to, co chce, bude mít špatnou náladu.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asketa",
+        "závistivý"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asketa",
+          "závistivý"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Greedy",
+      "name": "chamtivý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je PAWN_gender ? závistivý : závistivá. Je pro PAWN_gender ? něj : ni ponižující mít méně působivou ložnici, než má kdokoliv jiný. Proto bude mít špatnou náladu vždy, pokud bude mít jakýkoliv kolonista více působivou ložnici.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asketa",
+        "chamtivý"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asketa",
+          "chamtivý"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Jealous",
+      "name": "závistivý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se PAWN_gender ? vzdal : vzdala fyzického pohodlí a potěšení ve prospěch prostého čistého životního stylu. Stane se PAWN_gender ? nešťastným : nešťastnou, pokud bude mít příliš působivou ložnici. Také nemusí přepychové jídlo a raději bude jíst to syrové. Nikdy nebude soudit ostatní podle jejich vzhledu.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "chamtivý",
+        "závistivý",
+        "gurmán"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "chamtivý",
+          "závistivý",
+          "gurmán"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Ascetic",
+      "name": "asketa",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je PAWN_gender ? gay : lesbička. Jsou pro PAWN_gender ? něj : ni atraktivní pouze partneři PAWN_gender ? mužského : ženského pohlaví.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Gay",
+      "name": "gay",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je PAWN_gender ? bisexuál : bisexuálka. Jsou pro PAWN_gender ? něj : ni atraktivní partneři mužského i ženského pohlaví.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Bisexual",
+      "name": "bisexuál",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je PAWN_gender ? asexuál : asexuálka. Nejeví sexuální zájem o žádné partnery.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Asexual",
+      "name": "asexuál",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má strašný hlas, neumí se vyjadřovat a používá špatné fráze. To předurčuje k tomu, že ostatní jdou raději dál, než aby pokračovali v konverzaci.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AnnoyingVoice",
+      "name": "nepříjemnýhlas",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má sípavý dech a strašně se potí. Pro ostatní je to velice nepříjemné.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "CreepyBreathing",
+      "name": "strašidelnédýchaní",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy miluje oheň. Občas způsobí požár, který ovšem nikdy nebude hasit. Aby si PAWN_gender ? ulevil : ulevila od stresu, půjde občas něco náhodně podpálit. To se bude dít častěji, pokud bude mít špatnou náladu.",
+      "stats": [
+        "Only mental break \"FireStartingSpree\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"FireStartingSpree\" allowed."
+        ]
+      },
+      "defName": "Pyromaniac",
+      "name": "pyromaniak",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy je PAWN_gender ? slabý : slabá a PAWN_gender ? zbabělý : zbabělá. Dokonce i mírná bolest ho znehybní.",
+      "stats": [
+        "-60% práh bolesti"
+      ],
+      "conflicts": [
+        "rváč",
+        "masochista"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "rváč",
+          "masochista"
+        ],
+        "stats": [
+          "-60% práh bolesti"
+        ]
+      },
+      "defName": "Wimp",
+      "name": "slaboch",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má pozoruhodnou kinestetickou inteligenci. Zdá se, že tančí kolem nebezpečí s nadpřirozeným půvabem.",
+      "stats": [
+        "+15.0 šance vyhnutí se úderu zblízka",
+        "x10% šance na vymrštění pasti"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 šance vyhnutí se úderu zblízka",
+          "x10% šance na vymrštění pasti"
+        ]
+      },
+      "defName": "Nimble",
+      "name": "hbitý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má talent pro učení. Nabírá vědomosti mnohem rychleji než ostatní.",
+      "stats": [
+        "+75% faktor globálního učení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+75% faktor globálního učení"
+        ]
+      },
+      "defName": "FastLearner",
+      "name": "učenlivýstudent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy velmi pomalu vstřebává vědomosti. Učí se mnohem pomaleji než ostatní.",
+      "stats": [
+        "-75% faktor globálního učení"
+      ],
+      "conflicts": [
+        "přílišchytrý"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "přílišchytrý"
+        ],
+        "stats": [
+          "-75% faktor globálního učení"
+        ]
+      },
+      "defName": "SlowLearner",
+      "name": "pomalýstudent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy nemá potřebu chodit na venkovní prostranství ani na světlo. Nikdy se nebude cítit jako v kleci, a proto nedostane ponorkovou nemoc, bez ohledu na to, jak dlouho bude uvnitř nebo a to klidně i po tmě.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Undergrounder",
+      "name": "klaustrofilik",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se ve svém slabém lidském těle cítí PAWN_gender ? omezený : omezená. Neustále sní o zesílení svého těla pomocí umělých částí.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "prostýmuž"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "prostýmuž"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Transhumanist",
+      "name": "modifikátortěla",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se domnívá, že lidské tělo má pro své limity důvod. Proto nikdy nepřijme umělou část těla.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "modifikátortěla"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "modifikátortěla"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BodyPurist",
+      "name": "prostýmuž",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy opravdu nesnáší muže a neveří jim.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesMen",
+      "name": "misandrie",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy opravdu nesnáší ženy a nevěří jim.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesWomen",
+      "name": "misogynie",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má fantastickou paměť na detaily. Ztrácí své nevyužívané dovednosti poloviční rychlostí než ostatní lidé.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "GreatMemory",
+      "name": "skvělápaměť",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy má hroší kůži, hutné maso, a odolné kosti. Díky tomu si odnáší mnohem méně škod stejnými údery než ostatní lidé. Je nesmírně těžké ho zabít.",
+      "stats": [
+        "x50% násobitel příchozích škod"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x50% násobitel příchozích škod"
+        ]
+      },
+      "defName": "Tough",
+      "name": "houževnatý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se cítí PAWN_gender ? odstrčený : odstrčená a PAWN_gender ? nepochopený : nepochopená ostatními lidmi. Bude mít neustálý postih k náladě, ale existuje zde 50% šance, že se po nervovém zhroucení inspiruje v kreativitě.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "TorturedArtist",
+      "name": "utrápenýumělec",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Celý jeho život se točí kolem jídla. Timmy vždy rychle vyhladoví a občas bude překonávat touhu hltavě jíst, i když už nebude mít hlad.",
+      "stats": [
+        "Only mental break \"Binging_Food\" allowed.",
+        "+4 vaření"
+      ],
+      "conflicts": [
+        "asketa"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asketa"
+        ],
+        "stats": [
+          "Only mental break \"Binging_Food\" allowed.",
+          "+4 vaření"
+        ]
+      },
+      "defName": "Gourmand",
+      "name": "gurmán",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy nepotřebuje tolik spánku jako průměrný člověk. Ať už spí v posteli nebo na zemi, vždy si vystačí asi se dvěma třetinami obvyklého času, aby PAWN_gender ? nabral : nabrala plné síly.",
+      "stats": [
+        "+50% rychlost odpočinku"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% rychlost odpočinku"
+        ]
+      },
+      "defName": "QuickSleeper",
+      "name": "rychlýspáč",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy se vždy loudá za ostatními, ať se jde kamkoliv.",
+      "stats": [
+        "Běžecká posedlost inspiration disabled.",
+        "-0.20 rychlost pohybu"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Běžecká posedlost inspiration disabled.",
+          "-0.20 rychlost pohybu"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "loudavý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy vždy někam PAWN_gender ? rád : ráda chodí, a to rychleji než většina lidí.",
+      "stats": [
+        "+0.20 rychlost pohybu"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.20 rychlost pohybu"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "rychlýchodec",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy se vždy pohybuje s pocitem naléhavosti - a to tolik, že s PAWN_gender ? ním : ní ostatní často nedokáží držet krok.",
+      "stats": [
+        "+0.40 rychlost pohybu"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 rychlost pohybu"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "běžec",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy je naprosto PAWN_gender ? okouzlený : okouzlená chemickými látkami. Konzumace rekreačních drog způsobí zlepšení nálady, zatímco abstinence povede v průběhu času ke zvyšování frustrace a případně ke zneužívání drog. Bude ignorovat směrnice, že se nesmí užívat rekreační drogy a spotřebuje jich více než běžný člověk.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "narkoman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy má neobvyklý zájem o chemické látky. Konzumace rekreačních drog způsobí zlepšení nálady, zatímco abstinence povede v průběhu času ke zvyšování frustrace a případně ke zneužívání drog. Bude ignorovat směrnice, že se nesmí užívat rekreační drogy a spotřebuje jich více než běžný člověk.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "příznivecdrog",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy opovrhuje myšlenkou získávat potěšení pomocí chemikálií. Striktně se vyhýbá alkoholu a rekreačním drogám.",
+      "stats": [
+        "Extrémní touha na drogu mental state disabled.",
+        "Silná touha na drogu mental state disabled."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Extrémní touha na drogu mental state disabled.",
+          "Silná touha na drogu mental state disabled."
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "abstinent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy má přirozeně pozitivní náladu téměř po celou dobu nezávisle na tom, co se děje kolem.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "dobránálada",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy má přirozený optimistický pohled o životě. Jen velmi zřídka si nechá někým zkazit náladu.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "optimista",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy má tendenci sledovat jen špatné věci v životě.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "pesimista",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy se cítí trvale PAWN_gender ? nešťastný : nešťastná. Má potíže s udržením dobré nálady, i když je všechno v pořádku.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "depresivní",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy má pevnou vůli. Ta je jako jeho osobní štít. Pokračuje dál v dobrém i zlém přesto, že se ostatní už zhroutili.",
+      "stats": [
+        "-18% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-18% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "nervyzoceli",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy má silnou psychickou odolnost. Napětí, které by položilo většinu lidí, ustojí.",
+      "stats": [
+        "-9% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-9% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "psychickyodolný",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy má tendenci se pod tlakem sesypat.",
+      "stats": [
+        "+8% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "nervózní",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy má neustále napjatou náladu. Bývá vždy první, kdo se zhroutí při každé složitější situaci.",
+      "stats": [
+        "+15% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "psychickynalomený",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy je PAWN_gender ? rád : ráda, když má věci dokončené. Bude pracovat tvrději než ostatní, ale jeho nervy ho mohou brzo zradit.",
+      "stats": [
+        "+20% globální rychlost práce",
+        "+8% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% globální rychlost práce",
+          "+8% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "neurotický",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy se cítí neustále nervózní ze všeho, co musí ještě stihnout dokončit. Proto bude velmi tvrdě pracovat, aby PAWN_gender ? dosáhl : dosáhla svého cíle, ale také velmi snadno vyhoří.",
+      "stats": [
+        "+40% globální rychlost práce",
+        "+14% práh nervového zhroucení"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% globální rychlost práce",
+          "+14% práh nervového zhroucení"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "velmineurotický",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy nemá problém vydržet u jedné činnosti plně PAWN_gender ? soustředěný : soustředěná. Díky tomu také provede práci mnohem rychleji než průměrný člověk.",
+      "stats": [
+        "+35% globální rychlost práce"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% globální rychlost práce"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "pracovitý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy je PAWN_gender ? dříč : dříčka od přírody a úkoly dělá daleko rychleji než většina ostatních.",
+      "stats": [
+        "+20% globální rychlost práce"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% globální rychlost práce"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "tvrděpracující",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy je tak trochu PAWN_gender ? líný : líná.",
+      "stats": [
+        "-20% globální rychlost práce"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% globální rychlost práce"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "lenoch",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy miluje lenost a nesnáší práci. Chodí pomalu a zřídkakdy vydrží se soustředěním pracovat.",
+      "stats": [
+        "-35% globální rychlost práce"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% globální rychlost práce"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "povaleč",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy má mysl jako ladičku. Je extrémně senzitivní na psychické jevy.",
+      "stats": [
+        "+80% psychická citlivost"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+80% psychická citlivost"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychickypřecitlivělý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy má mysl neobyčejně citlivou na psychické jevy.",
+      "stats": [
+        "+40% psychická citlivost"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% psychická citlivost"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychickycitlivý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy má mysl psychicky rozladěnou oproti ostatním. Není tak PAWN_gender ? ovlivňován : ovlivňována psychickými jevy.",
+      "stats": [
+        "-50% psychická citlivost"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% psychická citlivost"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychickymatný",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy má mysl pracující na odlišné psychické frekvenci než všichni ostatní. Není prostě PAWN_gender ? ovlivňován : ovlivňována psychickými jevy.",
+      "stats": [
+        "-100% psychická citlivost"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% psychická citlivost"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychickyhluchý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy potřebuje více času na zaměření cíle. Střílí sice pomaleji než ostatní, ale s vyšší přesností.",
+      "stats": [
+        "+25% doba pro zaměření",
+        "+5.0 přesnost střelby"
+      ],
+      "conflicts": [
+        "rváč"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "rváč"
+        ],
+        "stats": [
+          "+25% doba pro zaměření",
+          "+5.0 přesnost střelby"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "ostrostřelec",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Prásk! Prásk! Prásk! Timmy strašně PAWN_gender ? rád : ráda mačká spoušť. Střílí sice rychleji než ostatní, ale s nižší přesností.",
+      "stats": [
+        "-50% doba pro zaměření",
+        "-5.0 přesnost střelby"
+      ],
+      "conflicts": [
+        "rváč"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "rváč"
+        ],
+        "stats": [
+          "-50% doba pro zaměření",
+          "-5.0 přesnost střelby"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "šťastnýstřelec",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy je mimořádně PAWN_gender ? krásný : krásná. S exotickým, přesto důvěrně známým obličejem. Lidem se líbí dříve, než otevře svou pusu.",
+      "stats": [
+        "+2.0 krása"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 krása"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "překrásný",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy má hezkou tvář, což předurčuje k tomu, že ho ostatní lidé mají rádi.",
+      "stats": [
+        "+1.0 krása"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1.0 krása"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "hezký",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy je poněkud PAWN_gender ? ošklivý : ošklivá. Toto maličko odpuzuje ostatní během sociální interakce.",
+      "stats": [
+        "-1.0 krása"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-1.0 krása"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "škaredý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy je neskutečně PAWN_gender ? ošklivý : ošklivá. V obličeji vypadá jako kříženec mezi kresbou netalentovaného dítěte, kusu mrtvého plodu v dóze formaldehydu, a kusu moderního umění. Jedinci musí vyvinout vědomé úsilí, aby se PAWN_gender ? mu : jí během konverzace dokázali podívat do tváře.",
+      "stats": [
+        "-2.0 krása"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-2.0 krása"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "strašlivěškaredý",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy má přirozeně silný imunitní systém. Díky tomu získá imunitu mnohem rychleji než normální člověk a může přežít onemocnění, která by jiné zabila.",
+      "stats": [
+        "+30% rychlost vytvoření imunity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30% rychlost vytvoření imunity"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "silnáimunita",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy má slabý imunitní systém. Onemocní častěji, než je obvyklé, a často dostane nemoc, kterou v kolonii ještě nikdo neměl.",
+      "stats": [
+        "+4 lékařství"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 lékařství"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "slabáimunita",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    }
+  ],
+  "races": [
+    {
+      "data": {
+        "stats": [
+          "+60.00 Hmotnost",
+          "+70% Hořlavost",
+          "+$1750 Tržní hodnota",
+          "+4.60 Rychlost pohybu",
+          "+16.0C Minimální snesitelná teplota",
+          "+26.0C Maximální snesitelná teplota",
+          "+75 Množství kůže",
+          "+3 Hodnota (pocta)"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Průměrný člověk, který se skrze genetické úpravy a evoluční procesy na planetách mimo Zemi vůbec nezměnil.",
+      "defName": "Human",
+      "enabled": true,
+      "name": "člověk",
+      "price": 2917
+    }
+  ]
+}

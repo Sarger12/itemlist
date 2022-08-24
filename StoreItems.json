@@ -1,0 +1,4529 @@
+{
+	"items" : [
+	{
+		"abr": "pivo",
+		"price": 20,
+		"category": "Drogy",
+		"defname": "Beer"
+	},
+	{
+		"abr": "mladina",
+		"price": 4,
+		"category": "Výrobky",
+		"defname": "Wort"
+	},
+	{
+		"abr": "ambrozie",
+		"price": 25,
+		"category": "Drogy",
+		"defname": "Ambrosia"
+	},
+	{
+		"abr": "šťáva-go",
+		"price": 88,
+		"category": "Drogy",
+		"defname": "GoJuice"
+	},
+	{
+		"abr": "luciferium",
+		"price": 117,
+		"category": "Drogy",
+		"defname": "Luciferium"
+	},
+	{
+		"abr": "penoxycylin",
+		"price": 30,
+		"category": "Drogy",
+		"defname": "Penoxycyline"
+	},
+	{
+		"abr": "vločka",
+		"price": 23,
+		"category": "Drogy",
+		"defname": "Flake"
+	},
+	{
+		"abr": "psychovníkovýčaj",
+		"price": 17,
+		"category": "Drogy",
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "jájo",
+		"price": 35,
+		"category": "Drogy",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "jointzdýmovníku",
+		"price": 18,
+		"category": "Drogy",
+		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "budíček",
+		"price": 58,
+		"category": "Drogy",
+		"defname": "WakeUp"
+	},
+	{
+		"abr": "archoteckéoko",
+		"price": 4667,
+		"category": "Archotecké",
+		"defname": "ArchotechEye"
+	},
+	{
+		"abr": "archoteckápaže",
+		"price": 4667,
+		"category": "Archotecké",
+		"defname": "ArchotechArm"
+	},
+	{
+		"abr": "archoteckánoha",
+		"price": 4667,
+		"category": "Archotecké",
+		"defname": "ArchotechLeg"
+	},
+	{
+		"abr": "bionickéoko",
+		"price": 1717,
+		"category": "Bionické",
+		"defname": "BionicEye"
+	},
+	{
+		"abr": "bionickápaže",
+		"price": 1717,
+		"category": "Bionické",
+		"defname": "BionicArm"
+	},
+	{
+		"abr": "bionickánoha",
+		"price": 1717,
+		"category": "Bionické",
+		"defname": "BionicLeg"
+	},
+	{
+		"abr": "bionickápáteř",
+		"price": 1717,
+		"category": "Bionické",
+		"defname": "BionicSpine"
+	},
+	{
+		"abr": "bionickésrdce",
+		"price": 1717,
+		"category": "Bionické",
+		"defname": "BionicHeart"
+	},
+	{
+		"abr": "bionickýžaludek",
+		"price": 1308,
+		"category": "Bionické",
+		"defname": "BionicStomach"
+	},
+	{
+		"abr": "posmrtnýkyselinovýrozkladač",
+		"price": 667,
+		"category": "Bionické",
+		"defname": "DeathAcidifier"
+	},
+	{
+		"abr": "bionickéucho",
+		"price": 1308,
+		"category": "Bionické",
+		"defname": "BionicEar"
+	},
+	{
+		"abr": "bionickýjazyk",
+		"price": 942,
+		"category": "Bionické",
+		"defname": "BionicTongue"
+	},
+	{
+		"abr": "srdce",
+		"price": 833,
+		"category": "Organické",
+		"defname": "Heart"
+	},
+	{
+		"abr": "plíce",
+		"price": 667,
+		"category": "Organické",
+		"defname": "Lung"
+	},
+	{
+		"abr": "ledvina",
+		"price": 417,
+		"category": "Organické",
+		"defname": "Kidney"
+	},
+	{
+		"abr": "játra",
+		"price": 833,
+		"category": "Organické",
+		"defname": "Liver"
+	},
+	{
+		"abr": "protetickánoha",
+		"price": 433,
+		"category": "Protetické",
+		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "protetickápaže",
+		"price": 433,
+		"category": "Protetické",
+		"defname": "SimpleProstheticArm"
+	},
+	{
+		"abr": "umělésrdce",
+		"price": 383,
+		"category": "Protetické",
+		"defname": "SimpleProstheticHeart"
+	},
+	{
+		"abr": "kochleárníimplantát",
+		"price": 367,
+		"category": "Protetické",
+		"defname": "CochlearImplant"
+	},
+	{
+		"abr": "energospár",
+		"price": 642,
+		"category": "Protetické",
+		"defname": "PowerClaw"
+	},
+	{
+		"abr": "čipštěstí",
+		"price": 367,
+		"category": "Protetické",
+		"defname": "Joywire"
+	},
+	{
+		"abr": "blokovačbolesti",
+		"price": 367,
+		"category": "Protetické",
+		"defname": "Painstopper"
+	},
+	{
+		"abr": "urna",
+		"price": 70,
+		"category": "Nábytek",
+		"defname": "Urn"
+	},
+	{
+		"abr": "malásocha",
+		"price": 275,
+		"category": "Umělecká díla",
+		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "velkásocha",
+		"price": 517,
+		"category": "Umělecká díla",
+		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "velkolepásocha",
+		"price": 1967,
+		"category": "Umělecká díla",
+		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "postel",
+		"price": 155,
+		"category": "Nábytek",
+		"defname": "Bed"
+	},
+	{
+		"abr": "dvoulůžko",
+		"price": 292,
+		"category": "Nábytek",
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "královskápostel",
+		"price": 1467,
+		"category": "Nábytek",
+		"defname": "RoyalBed"
+	},
+	{
+		"abr": "nemocničnílůžko",
+		"price": 667,
+		"category": "Nábytek",
+		"defname": "HospitalBed"
+	},
+	{
+		"abr": "spacák",
+		"price": 137,
+		"category": "Nábytek",
+		"defname": "Bedroll"
+	},
+	{
+		"abr": "dvouspacák",
+		"price": 290,
+		"category": "Nábytek",
+		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "zvířecíkrabice",
+		"price": 84,
+		"category": "Nábytek",
+		"defname": "AnimalSleepingBox"
+	},
+	{
+		"abr": "zvířecípelech",
+		"price": 136,
+		"category": "Nábytek",
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "stolička",
+		"price": 86,
+		"category": "Nábytek",
+		"defname": "Stool"
+	},
+	{
+		"abr": "židle",
+		"price": 198,
+		"category": "Nábytek",
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "křeslo",
+		"price": 450,
+		"category": "Nábytek",
+		"defname": "Armchair"
+	},
+	{
+		"abr": "nočnístolek",
+		"price": 106,
+		"category": "Nábytek",
+		"defname": "EndTable"
+	},
+	{
+		"abr": "stůl(1x2)",
+		"price": 98,
+		"category": "Nábytek",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "stůl(2x2)",
+		"price": 176,
+		"category": "Nábytek",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "stůl(2x4)",
+		"price": 333,
+		"category": "Nábytek",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "stůl(3x3)",
+		"price": 350,
+		"category": "Nábytek",
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "květináč",
+		"price": 68,
+		"category": "Nábytek",
+		"defname": "PlantPot"
+	},
+	{
+		"abr": "stojacílampa",
+		"price": 65,
+		"category": "Nábytek",
+		"defname": "StandingLamp"
+	},
+	{
+		"abr": "stojacíčervenálampa",
+		"price": 65,
+		"category": "Nábytek",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "stojacízelenálampa",
+		"price": 65,
+		"category": "Nábytek",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "stojacímodrálampa",
+		"price": 65,
+		"category": "Nábytek",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "uměléslunce",
+		"price": 129,
+		"category": "Nábytek",
+		"defname": "SunLamp"
+	},
+	{
+		"abr": "regál",
+		"price": 104,
+		"category": "Nábytek",
+		"defname": "Shelf"
+	},
+	{
+		"abr": "komoda",
+		"price": 179,
+		"category": "Nábytek",
+		"defname": "Dresser"
+	},
+	{
+		"abr": "kolíknapodkovy",
+		"price": 34,
+		"category": "Relaxace",
+		"defname": "HorseshoesPin"
+	},
+	{
+		"abr": "kruhnakameny",
+		"price": 67,
+		"category": "Relaxace",
+		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "hracídeskahryzuru",
+		"price": 153,
+		"category": "Nábytek",
+		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "šachovýstolek",
+		"price": 281,
+		"category": "Nábytek",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "pokerovýstůl",
+		"price": 400,
+		"category": "Nábytek",
+		"defname": "PokerTable"
+	},
+	{
+		"abr": "kulečníkovýstůl",
+		"price": 600,
+		"category": "Nábytek",
+		"defname": "BilliardsTable"
+	},
+	{
+		"abr": "crttelevizor",
+		"price": 525,
+		"category": "Relaxace",
+		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "televizorsplochouobrazovkou",
+		"price": 1533,
+		"category": "Relaxace",
+		"defname": "FlatscreenTelevision"
+	},
+	{
+		"abr": "televizorsobříobrazovkou",
+		"price": 2475,
+		"category": "Relaxace",
+		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "teleskop",
+		"price": 583,
+		"category": "Relaxace",
+		"defname": "Telescope"
+	},
+	{
+		"abr": "bednanavejce",
+		"price": 79,
+		"category": "Ostatní",
+		"defname": "EggBox"
+	},
+	{
+		"abr": "orbitálníobchodnímaják",
+		"price": 185,
+		"category": "Ostatní",
+		"defname": "OrbitalTradeBeacon"
+	},
+	{
+		"abr": "protipožárnízařízení",
+		"price": 300,
+		"category": "Ostatní",
+		"defname": "FirefoamPopper"
+	},
+	{
+		"abr": "multifunkčníanalyzátor",
+		"price": 1700,
+		"category": "Ostatní",
+		"defname": "MultiAnalyzer"
+	},
+	{
+		"abr": "monitorživotníchfunkcí",
+		"price": 358,
+		"category": "Ostatní",
+		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "skříňnanářadí",
+		"price": 642,
+		"category": "Ostatní",
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "výběhovácedule",
+		"price": 104,
+		"category": "Ostatní",
+		"defname": "PenMarker"
+	},
+	{
+		"abr": "zářícíkokon",
+		"price": 83,
+		"category": "Speciální",
+		"defname": "GlowPod"
+	},
+	{
+		"abr": "baterie",
+		"price": 333,
+		"category": "Energie",
+		"defname": "Battery"
+	},
+	{
+		"abr": "sochařskýstůl",
+		"price": 425,
+		"category": "Produkce",
+		"defname": "TableSculpting"
+	},
+	{
+		"abr": "řeznickýstůl",
+		"price": 302,
+		"category": "Produkce",
+		"defname": "TableButcher"
+	},
+	{
+		"abr": "ručníkrejčovskýstůl",
+		"price": 262,
+		"category": "Produkce",
+		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "elektrickýkrejčovskýstůl",
+		"price": 533,
+		"category": "Produkce",
+		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "kovárnanatuhápaliva",
+		"price": 333,
+		"category": "Produkce",
+		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "kovárnanaelektřinu",
+		"price": 492,
+		"category": "Produkce",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "obráběcístůl",
+		"price": 758,
+		"category": "Produkce",
+		"defname": "TableMachining"
+	},
+	{
+		"abr": "sporáknaelektřinu",
+		"price": 375,
+		"category": "Produkce",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "sporáknatuhápaliva",
+		"price": 265,
+		"category": "Produkce",
+		"defname": "FueledStove"
+	},
+	{
+		"abr": "kamenickýstůl",
+		"price": 358,
+		"category": "Produkce",
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "pivovar",
+		"price": 350,
+		"category": "Produkce",
+		"defname": "Brewery"
+	},
+	{
+		"abr": "zdravotnickálaboratoř",
+		"price": 742,
+		"category": "Produkce",
+		"defname": "DrugLab"
+	},
+	{
+		"abr": "tavicípecnaelektřinu",
+		"price": 667,
+		"category": "Produkce",
+		"defname": "ElectricSmelter"
+	},
+	{
+		"abr": "jednoduchévýzkumnéstanoviště",
+		"price": 350,
+		"category": "Produkce",
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "kvasnýsud",
+		"price": 95,
+		"category": "Produkce",
+		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "hlubinnávrtačka",
+		"price": 483,
+		"category": "Produkce",
+		"defname": "DeepDrill"
+	},
+	{
+		"abr": "pastshroty",
+		"price": 169,
+		"category": "Zabezpečení",
+		"defname": "TrapSpike"
+	},
+	{
+		"abr": "tříštivotrhavéied",
+		"price": 192,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_HighExplosive"
+	},
+	{
+		"abr": "zápalnéied",
+		"price": 192,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_Incendiary"
+	},
+	{
+		"abr": "empied",
+		"price": 192,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_EMP"
+	},
+	{
+		"abr": "kouřovéied",
+		"price": 192,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_Smoke"
+	},
+	{
+		"abr": "protipožárníied",
+		"price": 192,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_Firefoam"
+	},
+	{
+		"abr": "antihmotovéied",
+		"price": 2008,
+		"category": "Zabezpečení",
+		"defname": "TrapIED_AntigrainWarhead"
+	},
+	{
+		"abr": "miniaturníkanón",
+		"price": 492,
+		"category": "Zabezpečení",
+		"defname": "Turret_MiniTurret"
+	},
+	{
+		"abr": "minomet",
+		"price": 1058,
+		"category": "Zabezpečení",
+		"defname": "Turret_Mortar"
+	},
+	{
+		"abr": "psychickývyzařovač",
+		"price": 2167,
+		"category": "Speciální",
+		"defname": "PsychicEmanator"
+	},
+	{
+		"abr": "vanometrickýnapájecíčlánek",
+		"price": 2000,
+		"category": "Speciální",
+		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "nekonečnýchemickýreaktor",
+		"price": 2500,
+		"category": "Speciální",
+		"defname": "InfiniteChemreactor"
+	},
+	{
+		"abr": "topidlo",
+		"price": 218,
+		"category": "Teplota",
+		"defname": "Heater"
+	},
+	{
+		"abr": "zvířecídráždič",
+		"price": 1167,
+		"category": "Artefakty",
+		"defname": "PsychicAnimalPulser"
+	},
+	{
+		"abr": "uklidňovačmysli",
+		"price": 1000,
+		"category": "Artefakty",
+		"defname": "PsychicSoothePulser"
+	},
+	{
+		"abr": "osobnostníjádro",
+		"price": 6667,
+		"category": "Předměty",
+		"defname": "AIPersonaCore"
+	},
+	{
+		"abr": "sérumléčivýchmechanitů",
+		"price": 2167,
+		"category": "Předměty",
+		"defname": "MechSerumHealer"
+	},
+	{
+		"abr": "sérumoživovacíchmechanitů",
+		"price": 2833,
+		"category": "Předměty",
+		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "technologickéosobnostníjádro",
+		"price": 1667,
+		"category": "Předměty",
+		"defname": "TechprofSubpersonaCore"
+	},
+	{
+		"abr": "thrumbíroh",
+		"price": 1333,
+		"category": "Předměty",
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "sloníkel",
+		"price": 133,
+		"category": "Předměty",
+		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "nouzovýpotravinovýbalíček",
+		"price": 40,
+		"category": "Hotové pokrmy",
+		"defname": "MealSurvivalPack"
+	},
+	{
+		"abr": "nutričnípasta",
+		"price": 17,
+		"category": "Hotové pokrmy",
+		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "prostéjídlo",
+		"price": 25,
+		"category": "Hotové pokrmy",
+		"defname": "MealSimple"
+	},
+	{
+		"abr": "chutnéjídlo",
+		"price": 33,
+		"category": "Hotové pokrmy",
+		"defname": "MealFine"
+	},
+	{
+		"abr": "chutnévegetariánskéjídlo",
+		"price": 33,
+		"category": "Hotové pokrmy",
+		"defname": "MealFine_Veg"
+	},
+	{
+		"abr": "chutnémasitéjídlo",
+		"price": 33,
+		"category": "Hotové pokrmy",
+		"defname": "MealFine_Meat"
+	},
+	{
+		"abr": "bohatéjídlo",
+		"price": 67,
+		"category": "Hotové pokrmy",
+		"defname": "MealLavish"
+	},
+	{
+		"abr": "bohatévegetariánskéjídlo",
+		"price": 67,
+		"category": "Hotové pokrmy",
+		"defname": "MealLavish_Veg"
+	},
+	{
+		"abr": "bohatémasitéjídlo",
+		"price": 67,
+		"category": "Hotové pokrmy",
+		"defname": "MealLavish_Meat"
+	},
+	{
+		"abr": "granule",
+		"price": 2,
+		"category": "Potraviny",
+		"defname": "Kibble"
+	},
+	{
+		"abr": "pemikan",
+		"price": 2,
+		"category": "Potraviny",
+		"defname": "Pemmican"
+	},
+	{
+		"abr": "čokoláda",
+		"price": 5,
+		"category": "Potraviny",
+		"defname": "Chocolate"
+	},
+	{
+		"abr": "mléko",
+		"price": 3,
+		"category": "Živočišné produkty",
+		"defname": "Milk"
+	},
+	{
+		"abr": "hmyzíželé",
+		"price": 13,
+		"category": "Živočišné produkty",
+		"defname": "InsectJelly"
+	},
+	{
+		"abr": "slepičívejce(neoplo.)",
+		"price": 12,
+		"category": "Vejce (neoplo.)",
+		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "slepičívejce(oplo.)",
+		"price": 12,
+		"category": "Vejce (oplo.)",
+		"defname": "EggChickenFertilized"
+	},
+	{
+		"abr": "kobřívejce(oplo.)",
+		"price": 33,
+		"category": "Vejce (oplo.)",
+		"defname": "EggCobraFertilized"
+	},
+	{
+		"abr": "leguánívejce(oplo.)",
+		"price": 42,
+		"category": "Vejce (oplo.)",
+		"defname": "EggIguanaFertilized"
+	},
+	{
+		"abr": "želvívejce(oplo.)",
+		"price": 38,
+		"category": "Vejce (oplo.)",
+		"defname": "EggTortoiseFertilized"
+	},
+	{
+		"abr": "kasuářívejce(oplo.)",
+		"price": 32,
+		"category": "Vejce (oplo.)",
+		"defname": "EggCassowaryFertilized"
+	},
+	{
+		"abr": "emuvejce(oplo.)",
+		"price": 30,
+		"category": "Vejce (oplo.)",
+		"defname": "EggEmuFertilized"
+	},
+	{
+		"abr": "pštrosívejce(oplo.)",
+		"price": 38,
+		"category": "Vejce (oplo.)",
+		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "krutívejce(oplo.)",
+		"price": 18,
+		"category": "Vejce (oplo.)",
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "kachnívejce(neoplo.)",
+		"price": 12,
+		"category": "Vejce (neoplo.)",
+		"defname": "EggDuckUnfertilized"
+	},
+	{
+		"abr": "kachnívejce(oplo.)",
+		"price": 12,
+		"category": "Vejce (oplo.)",
+		"defname": "EggDuckFertilized"
+	},
+	{
+		"abr": "husívejce(neoplo.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "EggGooseUnfertilized"
+	},
+	{
+		"abr": "husívejce(oplo.)",
+		"price": 18,
+		"category": "Vejce (oplo.)",
+		"defname": "EggGooseFertilized"
+	},
+	{
+		"abr": "bylinnýpřípravek",
+		"price": 17,
+		"category": "Léčiva",
+		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "lékárnička",
+		"price": 30,
+		"category": "Léčiva",
+		"defname": "MedicineIndustrial"
+	},
+	{
+		"abr": "lékárničkazvyspěléhosvěta",
+		"price": 83,
+		"category": "Léčiva",
+		"defname": "MedicineUltratech"
+	},
+	{
+		"abr": "komponent",
+		"price": 53,
+		"category": "Výrobky",
+		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "pokročilýkomponent",
+		"price": 333,
+		"category": "Výrobky",
+		"defname": "ComponentSpacer"
+	},
+	{
+		"abr": "neutroamina",
+		"price": 10,
+		"category": "Výrobky",
+		"defname": "Neutroamine"
+	},
+	{
+		"abr": "chemicképalivo",
+		"price": 4,
+		"category": "Výrobky",
+		"defname": "Chemfuel"
+	},
+	{
+		"abr": "zesílenáhlaveň",
+		"price": 1000,
+		"category": "Předměty",
+		"defname": "ReinforcedBarrel"
+	},
+	{
+		"abr": "brambory",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawPotatoes"
+	},
+	{
+		"abr": "houby",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawFungus"
+	},
+	{
+		"abr": "rýže",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawRice"
+	},
+	{
+		"abr": "plodyagáve",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawAgave"
+	},
+	{
+		"abr": "kukuřice",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawCorn"
+	},
+	{
+		"abr": "bobule",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "RawBerries"
+	},
+	{
+		"abr": "seno",
+		"price": 1,
+		"category": "Potraviny",
+		"defname": "Hay"
+	},
+	{
+		"abr": "chmel",
+		"price": 2,
+		"category": "Části rostlin",
+		"defname": "RawHops"
+	},
+	{
+		"abr": "listypsychovníku",
+		"price": 3,
+		"category": "Části rostlin",
+		"defname": "PsychoidLeaves"
+	},
+	{
+		"abr": "listydýmovníku",
+		"price": 3,
+		"category": "Části rostlin",
+		"defname": "SmokeleafLeaves"
+	},
+	{
+		"abr": "tříštivotrhavýdělostřeleckýgranát",
+		"price": 92,
+		"category": "Minometné granáty",
+		"defname": "Shell_HighExplosive"
+	},
+	{
+		"abr": "zápalnýdělostřeleckýgranát",
+		"price": 92,
+		"category": "Minometné granáty",
+		"defname": "Shell_Incendiary"
+	},
+	{
+		"abr": "empdělostřeleckýgranát",
+		"price": 92,
+		"category": "Minometné granáty",
+		"defname": "Shell_EMP"
+	},
+	{
+		"abr": "kouřovýdělostřeleckýgranát",
+		"price": 92,
+		"category": "Minometné granáty",
+		"defname": "Shell_Smoke"
+	},
+	{
+		"abr": "protipožárnídělostřeleckýgranát",
+		"price": 92,
+		"category": "Minometné granáty",
+		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "antihmotováhlavice",
+		"price": 2000,
+		"category": "Minometné granáty",
+		"defname": "Shell_AntigrainWarhead"
+	},
+	{
+		"abr": "stříbro",
+		"price": 2,
+		"category": "Suroviny",
+		"defname": "Silver"
+	},
+	{
+		"abr": "zlato",
+		"price": 17,
+		"category": "Suroviny",
+		"defname": "Gold"
+	},
+	{
+		"abr": "ocel",
+		"price": 3,
+		"category": "Suroviny",
+		"defname": "Steel"
+	},
+	{
+		"abr": "plastocel",
+		"price": 15,
+		"category": "Suroviny",
+		"defname": "Plasteel"
+	},
+	{
+		"abr": "dřevo",
+		"price": 2,
+		"category": "Suroviny",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "uran",
+		"price": 10,
+		"category": "Suroviny",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "jadeit",
+		"price": 8,
+		"category": "Suroviny",
+		"defname": "Jade"
+	},
+	{
+		"abr": "látka",
+		"price": 2,
+		"category": "Látky",
+		"defname": "Cloth"
+	},
+	{
+		"abr": "syntetickévlákno",
+		"price": 7,
+		"category": "Látky",
+		"defname": "Synthread"
+	},
+	{
+		"abr": "ďáblovovlákno",
+		"price": 9,
+		"category": "Látky",
+		"defname": "DevilstrandCloth"
+	},
+	{
+		"abr": "nanovlákno",
+		"price": 15,
+		"category": "Látky",
+		"defname": "Hyperweave"
+	},
+	{
+		"abr": "ovčívlna",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "WoolSheep"
+	},
+	{
+		"abr": "alpačívlna",
+		"price": 6,
+		"category": "Vlny",
+		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "lenochodívlna",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "můvolívlna",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "WoolMuffalo"
+	},
+	{
+		"abr": "bizonívlna",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "WoolBison"
+	},
+	{
+		"abr": "obyčejnákůže",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "psíkožešina",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "vlčíkožešina",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "kožešinakočkovitéšelmy",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "velbloudíkůže",
+		"price": 4,
+		"category": "Kůže",
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "namodralákožešina",
+		"price": 4,
+		"category": "Kůže",
+		"defname": "Leather_Bluefur"
+	},
+	{
+		"abr": "medvědíkožešina",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "Leather_Bear"
+	},
+	{
+		"abr": "kožešinamorčete",
+		"price": 8,
+		"category": "Kůže",
+		"defname": "Leather_GuineaPig"
+	},
+	{
+		"abr": "lidskákůže",
+		"price": 7,
+		"category": "Kůže",
+		"defname": "Leather_Human"
+	},
+	{
+		"abr": "vepřovákůže",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "lehkákůže",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Light"
+	},
+	{
+		"abr": "ptačíkůže",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "činčilíkožešina",
+		"price": 11,
+		"category": "Kůže",
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "liščíkožešina",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "šupinatákůže",
+		"price": 3,
+		"category": "Kůže",
+		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "sloníkůže",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "těžkákůže",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "nosorožčíkůže",
+		"price": 7,
+		"category": "Kůže",
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "thrumbíkožešina",
+		"price": 23,
+		"category": "Kůže",
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "kombinovanákůže",
+		"price": 2,
+		"category": "Kůže",
+		"defname": "Leather_Patch"
+	},
+	{
+		"abr": "opaseksenergoštítem",
+		"price": 650,
+		"category": "Užitečné doplňky",
+		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "kovbojskýklobouk",
+		"price": 94,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "buřinka",
+		"price": 77,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "kmenováčelenka",
+		"price": 203,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "čepice",
+		"price": 74,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_Tuque"
+	},
+	{
+		"abr": "válečnámaska",
+		"price": 101,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "válečnárouška",
+		"price": 75,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "jednoducháhelma",
+		"price": 153,
+		"category": "Helmy",
+		"defname": "Apparel_SimpleHelmet"
+	},
+	{
+		"abr": "střepinováhelma",
+		"price": 442,
+		"category": "Helmy",
+		"defname": "Apparel_AdvancedHelmet"
+	},
+	{
+		"abr": "mariňáckáhelma",
+		"price": 1058,
+		"category": "Helmy",
+		"defname": "Apparel_PowerArmorHelmet"
+	},
+	{
+		"abr": "průzkumnickáhelma",
+		"price": 875,
+		"category": "Helmy",
+		"defname": "Apparel_ArmorHelmetRecon"
+	},
+	{
+		"abr": "anti-psionickáhelma",
+		"price": 417,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_PsychicFoilHelmet"
+	},
+	{
+		"abr": "kápě",
+		"price": 203,
+		"category": "Pokrývky hlavy",
+		"defname": "Apparel_HatHood"
+	},
+	{
+		"abr": "opasekskouřovýmivrhači",
+		"price": 277,
+		"category": "Užitečné doplňky",
+		"defname": "Apparel_SmokepopBelt"
+	},
+	{
+		"abr": "šokovékopí",
+		"price": 917,
+		"category": "Užitečné doplňky",
+		"defname": "Apparel_PsychicShockLance"
+	},
+	{
+		"abr": "kopíšílenství",
+		"price": 1083,
+		"category": "Užitečné doplňky",
+		"defname": "Apparel_PsychicInsanityLance"
+	},
+	{
+		"abr": "kmenovéoblečení",
+		"price": 211,
+		"category": "Výstroje",
+		"defname": "Apparel_TribalA"
+	},
+	{
+		"abr": "kožich",
+		"price": 315,
+		"category": "Výstroje",
+		"defname": "Apparel_Parka"
+	},
+	{
+		"abr": "kalhoty",
+		"price": 143,
+		"category": "Výstroje",
+		"defname": "Apparel_Pants"
+	},
+	{
+		"abr": "tričko",
+		"price": 143,
+		"category": "Výstroje",
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "košile",
+		"price": 166,
+		"category": "Výstroje",
+		"defname": "Apparel_CollarShirt"
+	},
+	{
+		"abr": "dlouhýkabát",
+		"price": 327,
+		"category": "Výstroje",
+		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "bunda",
+		"price": 275,
+		"category": "Výstroje",
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "plátovázbroj",
+		"price": 792,
+		"category": "Zbroje",
+		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "střepinovávesta",
+		"price": 375,
+		"category": "Zbroje",
+		"defname": "Apparel_FlakVest"
+	},
+	{
+		"abr": "střepinovékalhoty",
+		"price": 375,
+		"category": "Zbroje",
+		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "střepinovábunda",
+		"price": 483,
+		"category": "Zbroje",
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "mariňáckázbroj",
+		"price": 3392,
+		"category": "Zbroje",
+		"defname": "Apparel_PowerArmor"
+	},
+	{
+		"abr": "průzkumnickázbroj",
+		"price": 2567,
+		"category": "Zbroje",
+		"defname": "Apparel_ArmorRecon"
+	},
+	{
+		"abr": "pískovcovébloky",
+		"price": 2,
+		"category": "Kamenné bloky",
+		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "žulovébloky",
+		"price": 2,
+		"category": "Kamenné bloky",
+		"defname": "BlocksGranite"
+	},
+	{
+		"abr": "vápencovébloky",
+		"price": 2,
+		"category": "Kamenné bloky",
+		"defname": "BlocksLimestone"
+	},
+	{
+		"abr": "břidlicovébloky",
+		"price": 2,
+		"category": "Kamenné bloky",
+		"defname": "BlocksSlate"
+	},
+	{
+		"abr": "mramorovébloky",
+		"price": 2,
+		"category": "Kamenné bloky",
+		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "vyprošťovacísekera",
+		"price": 197,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "palcát",
+		"price": 203,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "gladius",
+		"price": 239,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "dlouhýmeč",
+		"price": 442,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "kyj",
+		"price": 141,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "nůž",
+		"price": 111,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "ikwa",
+		"price": 197,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "kopí",
+		"price": 322,
+		"category": "Na blízko",
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "revolver",
+		"price": 226,
+		"category": "Na dálku",
+		"defname": "Gun_Revolver"
+	},
+	{
+		"abr": "automatickápistole",
+		"price": 232,
+		"category": "Na dálku",
+		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "lehkýsamopal",
+		"price": 367,
+		"category": "Na dálku",
+		"defname": "Gun_MachinePistol"
+	},
+	{
+		"abr": "zápalnýgranátomet",
+		"price": 567,
+		"category": "Na dálku",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
+		"abr": "kouřovýgranátomet",
+		"price": 633,
+		"category": "Na dálku",
+		"defname": "Gun_SmokeLauncher"
+	},
+	{
+		"abr": "empgranátomet",
+		"price": 842,
+		"category": "Na dálku",
+		"defname": "Gun_EmpLauncher"
+	},
+	{
+		"abr": "opakovacípuška",
+		"price": 425,
+		"category": "Na dálku",
+		"defname": "Gun_BoltActionRifle"
+	},
+	{
+		"abr": "pumpovacíbrokovnice",
+		"price": 425,
+		"category": "Na dálku",
+		"defname": "Gun_PumpShotgun"
+	},
+	{
+		"abr": "automatickábrokovnice",
+		"price": 675,
+		"category": "Na dálku",
+		"defname": "Gun_ChainShotgun"
+	},
+	{
+		"abr": "těžkýsamopal",
+		"price": 592,
+		"category": "Na dálku",
+		"defname": "Gun_HeavySMG"
+	},
+	{
+		"abr": "lehkýkulomet",
+		"price": 708,
+		"category": "Na dálku",
+		"defname": "Gun_LMG"
+	},
+	{
+		"abr": "útočnápuška",
+		"price": 800,
+		"category": "Na dálku",
+		"defname": "Gun_AssaultRifle"
+	},
+	{
+		"abr": "odstřelovacípuška",
+		"price": 883,
+		"category": "Na dálku",
+		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "rotačníkulomet",
+		"price": 1933,
+		"category": "Na dálku",
+		"defname": "Gun_Minigun"
+	},
+	{
+		"abr": "trojhlavňovýraketomet",
+		"price": 1667,
+		"category": "Na dálku",
+		"defname": "Gun_TripleRocket"
+	},
+	{
+		"abr": "raketometsoudnéhodne",
+		"price": 1667,
+		"category": "Na dálku",
+		"defname": "Gun_DoomsdayRocket"
+	},
+	{
+		"abr": "tříštivégranáty",
+		"price": 442,
+		"category": "Granáty",
+		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "molotovovykoktejly",
+		"price": 408,
+		"category": "Granáty",
+		"defname": "Weapon_GrenadeMolotov"
+	},
+	{
+		"abr": "empgranáty",
+		"price": 525,
+		"category": "Granáty",
+		"defname": "Weapon_GrenadeEMP"
+	},
+	{
+		"abr": "krátkýluk",
+		"price": 74,
+		"category": "Na dálku",
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "vrhacíoštěpy",
+		"price": 182,
+		"category": "Na dálku",
+		"defname": "Pila"
+	},
+	{
+		"abr": "reflexníluk",
+		"price": 110,
+		"category": "Na dálku",
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "dlouhýluk",
+		"price": 174,
+		"category": "Na dálku",
+		"defname": "Bow_Great"
+	},
+	{
+		"abr": "energetickápuška",
+		"price": 1683,
+		"category": "Na dálku",
+		"defname": "Gun_ChargeRifle"
+	},
+	{
+		"abr": "energetickékopí",
+		"price": 2258,
+		"category": "Na dálku",
+		"defname": "Gun_ChargeLance"
+	},
+	{
+		"abr": "zaměřovač(orbitálníbombardér)",
+		"price": 2000,
+		"category": "Užitečné doplňky",
+		"defname": "OrbitalTargeterBombardment"
+	},
+	{
+		"abr": "zaměřovač(orbitálnívýkonovýpaprsek)",
+		"price": 2000,
+		"category": "Užitečné doplňky",
+		"defname": "OrbitalTargeterPowerBeam"
+	},
+	{
+		"abr": "zaměřovač(generátortornáda)",
+		"price": 1333,
+		"category": "Užitečné doplňky",
+		"defname": "TornadoGenerator"
+	},
+	{
+		"abr": "medvědgrizzly",
+		"price": 1167,
+		"category": "Zvířata",
+		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "medvědlední",
+		"price": 1167,
+		"category": "Zvířata",
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "pštros",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Ostrich"
+	},
+	{
+		"abr": "emu",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Emu"
+	},
+	{
+		"abr": "kasuár",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Cassowary"
+	},
+	{
+		"abr": "puma",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "Cougar"
+	},
+	{
+		"abr": "panter",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "Panther"
+	},
+	{
+		"abr": "rys",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Lynx"
+	},
+	{
+		"abr": "kočka",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Cat"
+	},
+	{
+		"abr": "jorkšírskýteriér",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "morče",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "GuineaPig"
+	},
+	{
+		"abr": "labradorskýretrívr",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "LabradorRetriever"
+	},
+	{
+		"abr": "husky",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Husky"
+	},
+	{
+		"abr": "opice",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Monkey"
+	},
+	{
+		"abr": "slepice",
+		"price": 83,
+		"category": "Zvířata",
+		"defname": "Chicken"
+	},
+	{
+		"abr": "kachna",
+		"price": 100,
+		"category": "Zvířata",
+		"defname": "Duck"
+	},
+	{
+		"abr": "krocan",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Turkey"
+	},
+	{
+		"abr": "husa",
+		"price": 150,
+		"category": "Zvířata",
+		"defname": "Goose"
+	},
+	{
+		"abr": "kráva",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "Cow"
+	},
+	{
+		"abr": "bumalopa",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "Boomalope"
+	},
+	{
+		"abr": "můvol",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "Muffalo"
+	},
+	{
+		"abr": "bizon",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "Bison"
+	},
+	{
+		"abr": "dromedár",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "Dromedary"
+	},
+	{
+		"abr": "koza",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Goat"
+	},
+	{
+		"abr": "los",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "Elk"
+	},
+	{
+		"abr": "jak",
+		"price": 533,
+		"category": "Zvířata",
+		"defname": "Yak"
+	},
+	{
+		"abr": "sob",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "Caribou"
+	},
+	{
+		"abr": "kůň",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "Horse"
+	},
+	{
+		"abr": "osel",
+		"price": 533,
+		"category": "Zvířata",
+		"defname": "Donkey"
+	},
+	{
+		"abr": "slon",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "Elephant"
+	},
+	{
+		"abr": "nosorožec",
+		"price": 1167,
+		"category": "Zvířata",
+		"defname": "Rhinoceros"
+	},
+	{
+		"abr": "zajíc",
+		"price": 83,
+		"category": "Zvířata",
+		"defname": "Hare"
+	},
+	{
+		"abr": "zajícsněžný",
+		"price": 83,
+		"category": "Zvířata",
+		"defname": "Snowhare"
+	},
+	{
+		"abr": "megaskarab",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "hloubník",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Spelopede"
+	},
+	{
+		"abr": "megapavouk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "Megaspider"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6667,
+		"category": "Zvířata",
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "kobra",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "Cobra"
+	},
+	{
+		"abr": "želva",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Tortoise"
+	},
+	{
+		"abr": "alfabobr",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Alphabeaver"
+	},
+	{
+		"abr": "prase",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Pig"
+	},
+	{
+		"abr": "divočák",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "kozorožec",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Ibex"
+	},
+	{
+		"abr": "srnec",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "Deer"
+	},
+	{
+		"abr": "gazela",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "Gazelle"
+	},
+	{
+		"abr": "činčila",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "ovce",
+		"price": 350,
+		"category": "Zvířata",
+		"defname": "Sheep"
+	},
+	{
+		"abr": "alpaka",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "Alpaca"
+	},
+	{
+		"abr": "lenochodobří",
+		"price": 1167,
+		"category": "Zvířata",
+		"defname": "Megasloth"
+	},
+	{
+		"abr": "kapybara",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "Capybara"
+	},
+	{
+		"abr": "veverka",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "krysa",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "Rat"
+	},
+	{
+		"abr": "třaskrysa",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Boomrat"
+	},
+	{
+		"abr": "mýval",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Raccoon"
+	},
+	{
+		"abr": "leguán",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "Iguana"
+	},
+	{
+		"abr": "vrk",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "Warg"
+	},
+	{
+		"abr": "vlklesní",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "vlkpolární",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "Wolf_Arctic"
+	},
+	{
+		"abr": "fenek",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "liškaobecná",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "liškapolární",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "22uniform",
+		"price": 1,
+		"category": "BiLi Apparel",
+		"defname": "22Uniform"
+	},
+	{
+		"abr": "33uniform",
+		"price": 1,
+		"category": "BiLi Apparel",
+		"defname": "33Uniform"
+	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 32,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walldarklight",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Nábytek",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "bluegelbattery",
+		"price": 1067,
+		"category": "Energie",
+		"defname": "AA_BlueGelBattery"
+	},
+	{
+		"abr": "hexagelbattery",
+		"price": 2542,
+		"category": "Energie",
+		"defname": "AA_HexaGelBattery"
+	},
+	{
+		"abr": "mutantleg",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_MutantLeg"
+	},
+	{
+		"abr": "mutantarm",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_MutantArm"
+	},
+	{
+		"abr": "mutanteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_MutantEye"
+	},
+	{
+		"abr": "bumbledroneegg(fert.)",
+		"price": 10,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_BumbledroneQueenEggFertilized"
+	},
+	{
+		"abr": "wildpodsporeclump(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_WildpodSpores"
+	},
+	{
+		"abr": "agaripodsporeclump(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_AgaripodSpores"
+	},
+	{
+		"abr": "mycoidcolossussporeclump(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_MycoidColossusSpores"
+	},
+	{
+		"abr": "wildpawnsporeclump(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_WildpawnSpores"
+	},
+	{
+		"abr": "agaripawnsporeclump(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_AgaripawnSpores"
+	},
+	{
+		"abr": "ironhuskbeetleegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_IronhuskEggUnfertilized"
+	},
+	{
+		"abr": "ironhuskbeetleegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_IronhuskEggFertilized"
+	},
+	{
+		"abr": "mammothwormegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_MammothWormEggUnfertilized"
+	},
+	{
+		"abr": "mammothwormegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_MammothWormEggFertilized"
+	},
+	{
+		"abr": "crepuscularbeetleegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_CrepuscularBeetleEggUnfertilized"
+	},
+	{
+		"abr": "crepuscularbeetleegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_CrepuscularBeetleEggFertilized"
+	},
+	{
+		"abr": "greatdevoureregg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_GreatDevourerEggUnfertilized"
+	},
+	{
+		"abr": "greatdevoureregg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_GreatDevourerEggFertilized"
+	},
+	{
+		"abr": "megalouseegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_MegalouseEggUnfertilized"
+	},
+	{
+		"abr": "megalouseegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_MegalouseEggFertilized"
+	},
+	{
+		"abr": "bedbugegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_BedBugEggUnfertilized"
+	},
+	{
+		"abr": "bedbugegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_BedBugEggFertilized"
+	},
+	{
+		"abr": "animaliskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_AnimaliskEggFertilized"
+	},
+	{
+		"abr": "feraliskegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_FeraliskEggUnfertilized"
+	},
+	{
+		"abr": "feraliskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_FeraliskEggFertilized"
+	},
+	{
+		"abr": "chargedferaliskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_FeraliskSuperEggFertilized"
+	},
+	{
+		"abr": "dunealiskegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_DunealiskEggUnfertilized"
+	},
+	{
+		"abr": "dunealiskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_DunealiskEggFertilized"
+	},
+	{
+		"abr": "chargeddunealiskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_DunealiskSuperEggFertilized"
+	},
+	{
+		"abr": "blizzariskegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_BlizzariskEggUnfertilized"
+	},
+	{
+		"abr": "blizzariskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_BlizzariskEggFertilized"
+	},
+	{
+		"abr": "chargedblizzariskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_BlizzariskSuperEggFertilized"
+	},
+	{
+		"abr": "jungleliskegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_JungleliskEggUnfertilized"
+	},
+	{
+		"abr": "jungleliskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_JungleliskEggFertilized"
+	},
+	{
+		"abr": "cinderliskegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_CinderliskEggUnfertilized"
+	},
+	{
+		"abr": "cinderliskegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_CinderliskEggFertilized"
+	},
+	{
+		"abr": "nightlingegg(fert.)",
+		"price": 167,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggNightlingFertilized"
+	},
+	{
+		"abr": "meadowaveegg(fert.)",
+		"price": 32,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggMeadowAveFertilized"
+	},
+	{
+		"abr": "desertaveegg(fert.)",
+		"price": 32,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggDesertAveFertilized"
+	},
+	{
+		"abr": "nightaveegg(fert.)",
+		"price": 58,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggNightAveFertilized"
+	},
+	{
+		"abr": "royalaveegg(fert.)",
+		"price": 225,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggRoyalAveFertilized"
+	},
+	{
+		"abr": "rough-platedmonitoregg(fert.)",
+		"price": 17,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggRoughPlatedMonitorFertilized"
+	},
+	{
+		"abr": "atispecegg(fert.)",
+		"price": 1,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_AtispecEggFertilized"
+	},
+	{
+		"abr": "angelmothegg(fert.)",
+		"price": 1,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_AngelMothEggFertilized"
+	},
+	{
+		"abr": "draineregg(fert.)",
+		"price": 1,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_DrainerEggFertilized"
+	},
+	{
+		"abr": "firewaspegg(fert.)",
+		"price": 12,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_FireWaspEggFertilized"
+	},
+	{
+		"abr": "firewaspegg(unfert.)",
+		"price": 12,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_FireWaspEggUnfertilized"
+	},
+	{
+		"abr": "flamingophoenixegg(fert.)",
+		"price": 17,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggFlamingoPhoenixFertilized"
+	},
+	{
+		"abr": "crescendoanoleegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggCrescendoAnoleFertilized"
+	},
+	{
+		"abr": "pedigreedraptoregg(fert.)",
+		"price": 75,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggPedigreedRaptorFertilized"
+	},
+	{
+		"abr": "empressbutterflyegg(fert.)",
+		"price": 1,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EmpressButterflyEggFertilized"
+	},
+	{
+		"abr": "giantcrownedsilkieegg(unfert.)",
+		"price": 15,
+		"category": "Vejce (neoplo.)",
+		"defname": "AA_EggGiantCrownedSilkieUnfertilized"
+	},
+	{
+		"abr": "giantcrownedsilkieegg(fert.)",
+		"price": 15,
+		"category": "Vejce (oplo.)",
+		"defname": "AA_EggGiantCrownedSilkieFertilized"
+	},
+	{
+		"abr": "aerofleetmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "AA_AerofleetMeat"
+	},
+	{
+		"abr": "ocularjellymeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "AA_OcularJellyMeat"
+	},
+	{
+		"abr": "rawredslime",
+		"price": 1,
+		"category": "Rostlinné produkty",
+		"defname": "AB_RawRedSlime"
+	},
+	{
+		"abr": "plantmeat",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "AA_CactusMeat"
+	},
+	{
+		"abr": "blackhiveinsectjelly",
+		"price": 15,
+		"category": "Živočišné produkty",
+		"defname": "AA_BlackInsectJelly"
+	},
+	{
+		"abr": "medicinalcactipinequill",
+		"price": 17,
+		"category": "Léčiva",
+		"defname": "AA_CactipineQuill"
+	},
+	{
+		"abr": "bluemilk",
+		"price": 8,
+		"category": "Živočišné produkty",
+		"defname": "AA_BlueMilk"
+	},
+	{
+		"abr": "gowmilk",
+		"price": 7,
+		"category": "Živočišné produkty",
+		"defname": "AA_GowMilk"
+	},
+	{
+		"abr": "disgustingnutrientpastemeal",
+		"price": 2,
+		"category": "Hotové pokrmy",
+		"defname": "AA_DisgustingMealNutrientPaste"
+	},
+	{
+		"abr": "gallatrosshorn",
+		"price": 2000,
+		"category": "Předměty",
+		"defname": "AA_GallatrossHorn"
+	},
+	{
+		"abr": "redwood",
+		"price": 2,
+		"category": "Suroviny",
+		"defname": "GU_RedWood"
+	},
+	{
+		"abr": "skysteel",
+		"price": 8,
+		"category": "Suroviny",
+		"defname": "AA_SkySteel"
+	},
+	{
+		"abr": "unrefineduraniumcrystals",
+		"price": 108,
+		"category": "Suroviny",
+		"defname": "AA_UraniumCrystals"
+	},
+	{
+		"abr": "bluegel",
+		"price": 2,
+		"category": "Suroviny",
+		"defname": "AA_BlueGel"
+	},
+	{
+		"abr": "hexagel",
+		"price": 10,
+		"category": "Suroviny",
+		"defname": "AA_Hexagel"
+	},
+	{
+		"abr": "hexagelcore",
+		"price": 70,
+		"category": "Výrobky",
+		"defname": "AA_HexagelCore"
+	},
+	{
+		"abr": "agariluxrawfungus",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "AA_AgariluxRawFungus"
+	},
+	{
+		"abr": "fermentedrottingmound",
+		"price": 2,
+		"category": "Rostlinné produkty",
+		"defname": "AA_RottingMoundItem"
+	},
+	{
+		"abr": "hugeanimapearl",
+		"price": 83,
+		"category": "Výrobky",
+		"defname": "AA_HugeAnimaPearl"
+	},
+	{
+		"abr": "aerofleetfur",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "AA_Leather_Aerofleet"
+	},
+	{
+		"abr": "arcticlionfur",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "AA_ArcticLion_Leather"
+	},
+	{
+		"abr": "sandlionfur",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "AA_SandLion_Leather"
+	},
+	{
+		"abr": "insectchitin",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "Leather_Chitin"
+	},
+	{
+		"abr": "ironchitin",
+		"price": 5,
+		"category": "Kůže",
+		"defname": "Leather_IronChitin"
+	},
+	{
+		"abr": "hardenedchitin",
+		"price": 7,
+		"category": "Kůže",
+		"defname": "Leather_RaptorPlates"
+	},
+	{
+		"abr": "sentientplantskin",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "Leather_Cactus"
+	},
+	{
+		"abr": "blackinsectchitin",
+		"price": 7,
+		"category": "Kůže",
+		"defname": "Leather_BlackChitin"
+	},
+	{
+		"abr": "gallatrossleather",
+		"price": 27,
+		"category": "Kůže",
+		"defname": "Leather_Gallatross"
+	},
+	{
+		"abr": "nightleather",
+		"price": 6,
+		"category": "Kůže",
+		"defname": "Leather_Night"
+	},
+	{
+		"abr": "chameleonyakwool,temperate",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "AA_ChameleonYakWoolTemperate"
+	},
+	{
+		"abr": "chameleonyakwool,winter",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "AA_ChameleonYakWoolWinter"
+	},
+	{
+		"abr": "chameleonyakwool,jungle",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "AA_ChameleonYakWoolJungle"
+	},
+	{
+		"abr": "chameleonyakwool,desert",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "AA_ChameleonYakWoolDesert"
+	},
+	{
+		"abr": "cindersilk",
+		"price": 7,
+		"category": "Látky",
+		"defname": "AA_CinderSilk"
+	},
+	{
+		"abr": "mothsilk",
+		"price": 9,
+		"category": "Látky",
+		"defname": "AA_MothSilk"
+	},
+	{
+		"abr": "giantcrownedsilkiesilk",
+		"price": 7,
+		"category": "Vlny",
+		"defname": "AA_GiantCrownedSilkieSilk"
+	},
+	{
+		"abr": "grey-coatedmouflonwool",
+		"price": 4,
+		"category": "Vlny",
+		"defname": "AA_GreyCoatedMouflonWool"
+	},
+	{
+		"abr": "acanthamoebagigantea,small",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_AcanthamoebaGiganteaSmall"
+	},
+	{
+		"abr": "acanthamoebagigantea,large",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_AcanthamoebaGiganteaLarge"
+	},
+	{
+		"abr": "acanthamoebagigantea,huge",
+		"price": 1167,
+		"category": "Zvířata",
+		"defname": "AA_AcanthamoebaGiganteaHuge"
+	},
+	{
+		"abr": "aerofleet",
+		"price": 200,
+		"category": "Zvířata",
+		"defname": "AA_Aerofleet"
+	},
+	{
+		"abr": "colossalaerofleet",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_ColossalAerofleet"
+	},
+	{
+		"abr": "agaripawn",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "AA_Agaripawn"
+	},
+	{
+		"abr": "agaripod",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_Agaripod"
+	},
+	{
+		"abr": "angelmothlarva",
+		"price": 25,
+		"category": "Zvířata",
+		"defname": "AA_AngelMothLarva"
+	},
+	{
+		"abr": "angelmoth",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_AngelMoth"
+	},
+	{
+		"abr": "animacolossus",
+		"price": 1083,
+		"category": "Zvířata",
+		"defname": "AA_AnimaColossus"
+	},
+	{
+		"abr": "animalisk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Animalisk"
+	},
+	{
+		"abr": "animusvox",
+		"price": 500,
+		"category": "Zvířata",
+		"defname": "AA_AnimusVox"
+	},
+	{
+		"abr": "arcticlion",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "AA_ArcticLion"
+	},
+	{
+		"abr": "larvalatispec",
+		"price": 25,
+		"category": "Zvířata",
+		"defname": "AA_LarvalAtispec"
+	},
+	{
+		"abr": "atispec",
+		"price": 2000,
+		"category": "Zvířata",
+		"defname": "AA_Atispec"
+	},
+	{
+		"abr": "aurorasylph",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_AuroraSylph"
+	},
+	{
+		"abr": "barbslinger",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Barbslinger"
+	},
+	{
+		"abr": "bedbug",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "AA_BedBug"
+	},
+	{
+		"abr": "blackscarab",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_BlackScarab"
+	},
+	{
+		"abr": "blackspelopede",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_BlackSpelopede"
+	},
+	{
+		"abr": "blackspider",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_BlackSpider"
+	},
+	{
+		"abr": "blizzarisk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Blizzarisk"
+	},
+	{
+		"abr": "blizzariskclutchmother",
+		"price": 1500,
+		"category": "Zvířata",
+		"defname": "AA_BlizzariskClutchMother"
+	},
+	{
+		"abr": "bloodshrimp",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_BloodShrimp"
+	},
+	{
+		"abr": "bobeene",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_Bobeene"
+	},
+	{
+		"abr": "bouldermit",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_BoulderMit"
+	},
+	{
+		"abr": "summitcrab",
+		"price": 2500,
+		"category": "Zvířata",
+		"defname": "AA_SummitCrab"
+	},
+	{
+		"abr": "bumbledrone",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_Bumbledrone"
+	},
+	{
+		"abr": "bumbledronehierophant",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_BumbledroneHierophant"
+	},
+	{
+		"abr": "bumbledronequeen",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_BumbledroneQueen"
+	},
+	{
+		"abr": "cactipine",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "AA_Cactipine"
+	},
+	{
+		"abr": "chameleonyak",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_ChameleonYak"
+	},
+	{
+		"abr": "chemfuelmyrmidon",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_ChemfuelMyrmidon"
+	},
+	{
+		"abr": "cinderlisk",
+		"price": 958,
+		"category": "Zvířata",
+		"defname": "AA_Cinderlisk"
+	},
+	{
+		"abr": "crepuscularbeetle",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "AA_CrepuscularBeetle"
+	},
+	{
+		"abr": "crescendoanole",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_CrescendoAnole"
+	},
+	{
+		"abr": "crystallinecaracal",
+		"price": 1667,
+		"category": "Zvířata",
+		"defname": "AA_CrystallineCaracal"
+	},
+	{
+		"abr": "crystalmit",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_CrystalMit"
+	},
+	{
+		"abr": "darkbeast",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Darkbeast"
+	},
+	{
+		"abr": "decaydrake",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_DecayDrake"
+	},
+	{
+		"abr": "desertave",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_DesertAve"
+	},
+	{
+		"abr": "devilsheep",
+		"price": 1333,
+		"category": "Zvířata",
+		"defname": "AA_DevilSheep"
+	},
+	{
+		"abr": "drainerlarva",
+		"price": 25,
+		"category": "Zvířata",
+		"defname": "AA_DrainerLarva"
+	},
+	{
+		"abr": "drainer",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_Drainer"
+	},
+	{
+		"abr": "dunealisk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Dunealisk"
+	},
+	{
+		"abr": "dunealiskclutchmother",
+		"price": 1500,
+		"category": "Zvířata",
+		"defname": "AA_DunealiskClutchMother"
+	},
+	{
+		"abr": "duskrat",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "AA_DuskRat"
+	},
+	{
+		"abr": "empressbutterflylarva",
+		"price": 83,
+		"category": "Zvířata",
+		"defname": "AA_EmpressButterflyLarva"
+	},
+	{
+		"abr": "empressbutterfly",
+		"price": 1083,
+		"category": "Zvířata",
+		"defname": "AA_EmpressButterfly"
+	},
+	{
+		"abr": "engorgedtentacularaberration",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_EngorgedTentacularAberration"
+	},
+	{
+		"abr": "erin",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_Erin"
+	},
+	{
+		"abr": "eyeling",
+		"price": 167,
+		"category": "Zvířata",
+		"defname": "AA_Eyeling"
+	},
+	{
+		"abr": "feralisk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Feralisk"
+	},
+	{
+		"abr": "feraliskclutchmother",
+		"price": 1500,
+		"category": "Zvířata",
+		"defname": "AA_FeraliskClutchMother"
+	},
+	{
+		"abr": "firewasp",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_FireWasp"
+	},
+	{
+		"abr": "fissionmouse",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "AA_FissionMouse"
+	},
+	{
+		"abr": "fissionmouse,secondgeneration",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "AA_FissionMouseSecond"
+	},
+	{
+		"abr": "fissionmouse,thirdgeneration",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "AA_FissionMouseThird"
+	},
+	{
+		"abr": "flamingophoenix",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "AA_FlamingoPhoenix"
+	},
+	{
+		"abr": "frostave",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_FrostAve"
+	},
+	{
+		"abr": "frostboundbehemoth",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "AA_FrostboundBehemoth"
+	},
+	{
+		"abr": "frostling",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Frostling"
+	},
+	{
+		"abr": "frostlynx",
+		"price": 625,
+		"category": "Zvířata",
+		"defname": "AA_FrostLynx"
+	},
+	{
+		"abr": "frostmite",
+		"price": 200,
+		"category": "Zvířata",
+		"defname": "AA_Frostmite"
+	},
+	{
+		"abr": "fungalhusk",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_FungalHusk"
+	},
+	{
+		"abr": "gallatross",
+		"price": 6667,
+		"category": "Zvířata",
+		"defname": "AA_Gallatross"
+	},
+	{
+		"abr": "moribundgallatross",
+		"price": 1667,
+		"category": "Zvířata",
+		"defname": "AA_GallatrossMoribund"
+	},
+	{
+		"abr": "genix",
+		"price": 625,
+		"category": "Zvířata",
+		"defname": "AA_Genix"
+	},
+	{
+		"abr": "giantcrownedsilkie",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_GiantCrownedSilkie"
+	},
+	{
+		"abr": "gigantelope",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_Gigantelope"
+	},
+	{
+		"abr": "greatdevourer",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_GreatDevourer"
+	},
+	{
+		"abr": "greengoo",
+		"price": 208,
+		"category": "Zvířata",
+		"defname": "AA_GreenGoo"
+	},
+	{
+		"abr": "grey-coatedmouflon",
+		"price": 1083,
+		"category": "Zvířata",
+		"defname": "AA_GreyCoatedMouflon"
+	},
+	{
+		"abr": "groundrunner",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_Groundrunner"
+	},
+	{
+		"abr": "helixien",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Helixien"
+	},
+	{
+		"abr": "infectedaerofleet",
+		"price": 300,
+		"category": "Zvířata",
+		"defname": "AA_InfectedAerofleet"
+	},
+	{
+		"abr": "ironhuskbeetle",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_IronhuskBeetle"
+	},
+	{
+		"abr": "junglelisk",
+		"price": 833,
+		"category": "Zvířata",
+		"defname": "AA_Junglelisk"
+	},
+	{
+		"abr": "lockjaw",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_Lockjaw"
+	},
+	{
+		"abr": "luciferbug",
+		"price": 1667,
+		"category": "Zvířata",
+		"defname": "AA_LuciferBug"
+	},
+	{
+		"abr": "mammothworm",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "AA_MammothWorm"
+	},
+	{
+		"abr": "mantrap",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_Mantrap"
+	},
+	{
+		"abr": "maturefleshbeast",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_MatureFleshbeast"
+	},
+	{
+		"abr": "meadowave",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_MeadowAve"
+	},
+	{
+		"abr": "megalouse",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_MegaLouse"
+	},
+	{
+		"abr": "metallovore",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_Metallovore"
+	},
+	{
+		"abr": "mime",
+		"price": 1667,
+		"category": "Zvířata",
+		"defname": "AA_Mime"
+	},
+	{
+		"abr": "mycoidcolossus",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_MycoidColossus"
+	},
+	{
+		"abr": "needlepost",
+		"price": 1050,
+		"category": "Zvířata",
+		"defname": "AA_Needlepost"
+	},
+	{
+		"abr": "needleroll",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_Needleroll"
+	},
+	{
+		"abr": "nightmule",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_NightMule"
+	},
+	{
+		"abr": "nightave",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_NightAve"
+	},
+	{
+		"abr": "nightling",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Nightling"
+	},
+	{
+		"abr": "nightram",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_NightRam"
+	},
+	{
+		"abr": "ocularjelly",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_OcularJelly"
+	},
+	{
+		"abr": "ocularnightling",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_OcularNightling"
+	},
+	{
+		"abr": "overgrowncolossus",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_OvergrownColossus"
+	},
+	{
+		"abr": "pebblemit",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_PebbleMit"
+	},
+	{
+		"abr": "pedigreedraptor",
+		"price": 1750,
+		"category": "Zvířata",
+		"defname": "AA_PedigreedRaptor"
+	},
+	{
+		"abr": "phoenixowlcat",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_PhoenixOwlcat"
+	},
+	{
+		"abr": "plasmorph",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_Plasmorph"
+	},
+	{
+		"abr": "radyak",
+		"price": 4167,
+		"category": "Zvířata",
+		"defname": "AA_Radyak"
+	},
+	{
+		"abr": "raptorshrimp",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_RaptorShrimp"
+	},
+	{
+		"abr": "ravager",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_Ravager"
+	},
+	{
+		"abr": "ray-hound",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_RayHound"
+	},
+	{
+		"abr": "razorjack",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_Razorjack"
+	},
+	{
+		"abr": "redgoo",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_RedGoo"
+	},
+	{
+		"abr": "redspore",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_RedSpore"
+	},
+	{
+		"abr": "ripperhound",
+		"price": 917,
+		"category": "Zvířata",
+		"defname": "AA_RipperHound"
+	},
+	{
+		"abr": "rough-platedmonitor",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_RoughPlatedMonitor"
+	},
+	{
+		"abr": "royalave",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_RoyalAve"
+	},
+	{
+		"abr": "sandlion",
+		"price": 1000,
+		"category": "Zvířata",
+		"defname": "AA_SandLion"
+	},
+	{
+		"abr": "sandprowler",
+		"price": 750,
+		"category": "Zvířata",
+		"defname": "AA_SandProwler"
+	},
+	{
+		"abr": "sandsquid",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_SandSquid"
+	},
+	{
+		"abr": "shockgoat",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_ShockGoat"
+	},
+	{
+		"abr": "skiphound",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Skiphound"
+	},
+	{
+		"abr": "arcturanskyeel",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_Skyeel"
+	},
+	{
+		"abr": "slurrypede",
+		"price": 1083,
+		"category": "Zvířata",
+		"defname": "AA_Slurrypede"
+	},
+	{
+		"abr": "spinedgow",
+		"price": 583,
+		"category": "Zvířata",
+		"defname": "AA_SpinedGow"
+	},
+	{
+		"abr": "swarmling",
+		"price": 58,
+		"category": "Zvířata",
+		"defname": "AA_Swarmling"
+	},
+	{
+		"abr": "targuzzler",
+		"price": 250,
+		"category": "Zvířata",
+		"defname": "AA_TarGuzzler"
+	},
+	{
+		"abr": "teratogenicoriginator",
+		"price": 1417,
+		"category": "Zvířata",
+		"defname": "AA_TeratogenicOriginator"
+	},
+	{
+		"abr": "terramorph",
+		"price": 417,
+		"category": "Zvířata",
+		"defname": "AA_Terramorph"
+	},
+	{
+		"abr": "tetraslug",
+		"price": 6667,
+		"category": "Zvířata",
+		"defname": "AA_TetraSlug"
+	},
+	{
+		"abr": "thermadon",
+		"price": 1083,
+		"category": "Zvířata",
+		"defname": "AA_Thermadon"
+	},
+	{
+		"abr": "thunderbeast",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_Thunderbeast"
+	},
+	{
+		"abr": "unblinkingeye",
+		"price": 2000,
+		"category": "Zvířata",
+		"defname": "AA_UnblinkingEye"
+	},
+	{
+		"abr": "waywardmobileassembler",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AA_WaywardMobileAssembler"
+	},
+	{
+		"abr": "wildpawn",
+		"price": 333,
+		"category": "Zvířata",
+		"defname": "AA_Wildpawn"
+	},
+	{
+		"abr": "wildpod",
+		"price": 667,
+		"category": "Zvířata",
+		"defname": "AA_Wildpod"
+	},
+	{
+		"abr": "windbeast",
+		"price": 1250,
+		"category": "Zvířata",
+		"defname": "AA_WindBeast"
+	},
+	{
+		"abr": "draconicambrosia",
+		"price": 60,
+		"category": "Drogy",
+		"defname": "DraconicAmbrosia"
+	},
+	{
+		"abr": "dragon'sblood",
+		"price": 97,
+		"category": "Drogy",
+		"defname": "DragonsBlood"
+	},
+	{
+		"abr": "moonstone",
+		"price": 47,
+		"category": "Drogy",
+		"defname": "MoonStone"
+	},
+	{
+		"abr": "dragonnest",
+		"price": 44,
+		"category": "Nábytek",
+		"defname": "DragonNest"
+	},
+	{
+		"abr": "dragonpillow",
+		"price": 206,
+		"category": "Nábytek",
+		"defname": "DragonPillow"
+	},
+	{
+		"abr": "dragonaltar",
+		"price": 675,
+		"category": "Nábytek",
+		"defname": "Altar"
+	},
+	{
+		"abr": "psychicaginglance",
+		"price": 3083,
+		"category": "Artefakty",
+		"defname": "PubertyLance"
+	},
+	{
+		"abr": "matinghorn",
+		"price": 3333,
+		"category": "Artefakty",
+		"defname": "MatingHorn"
+	},
+	{
+		"abr": "dragonhorn",
+		"price": 1450,
+		"category": "Předměty",
+		"defname": "DragonHorn"
+	},
+	{
+		"abr": "dragonegg(unfert.)",
+		"price": 42,
+		"category": "Vejce (neoplo.)",
+		"defname": "EggDragonUnfertilized"
+	},
+	{
+		"abr": "blackdragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlackDragonFertilized"
+	},
+	{
+		"abr": "bluedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlueDragonFertilized"
+	},
+	{
+		"abr": "golddragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGoldDragonFertilized"
+	},
+	{
+		"abr": "greendragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGreenDragonFertilized"
+	},
+	{
+		"abr": "jadedragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggJadeDragonFertilized"
+	},
+	{
+		"abr": "purpledragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggPurpleDragonFertilized"
+	},
+	{
+		"abr": "reddragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggRedDragonFertilized"
+	},
+	{
+		"abr": "silverdragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggSilverDragonFertilized"
+	},
+	{
+		"abr": "truedragonegg(fert.)",
+		"price": 11083,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggTrueDragonFertilized"
+	},
+	{
+		"abr": "whitedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggWhiteDragonFertilized"
+	},
+	{
+		"abr": "yellowdragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggYellowDragonFertilized"
+	},
+	{
+		"abr": "dragonleather",
+		"price": 29,
+		"category": "Kůže",
+		"defname": "Dragon_Leather"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "Kůže",
+		"defname": "Rare_Dragon_Leather"
+	},
+	{
+		"abr": "truedragonleather",
+		"price": 71,
+		"category": "Kůže",
+		"defname": "True_Dragon_Leather"
+	},
+	{
+		"abr": "jewelberries",
+		"price": 3,
+		"category": "Rostlinné produkty",
+		"defname": "JewelBerries"
+	},
+	{
+		"abr": "jeweledrhizome",
+		"price": 3,
+		"category": "Rostlinné produkty",
+		"defname": "Jeweledrhizomeraw"
+	},
+	{
+		"abr": "harddragonscale",
+		"price": 6,
+		"category": "Suroviny",
+		"defname": "HardScale"
+	},
+	{
+		"abr": "scalehelmet",
+		"price": 189,
+		"category": "Helmy",
+		"defname": "DD_Apparel_ScaleHelm"
+	},
+	{
+		"abr": "dragoncrown",
+		"price": 1683,
+		"category": "Helmy",
+		"defname": "DD_Apparel_DragonCrown"
+	},
+	{
+		"abr": "scalemail",
+		"price": 675,
+		"category": "Zbroje",
+		"defname": "DD_Apparel_ScaleMail"
+	},
+	{
+		"abr": "wingcape",
+		"price": 425,
+		"category": "Výstroje",
+		"defname": "DD_Apparel_WingCape"
+	},
+	{
+		"abr": "hornedlance",
+		"price": 3833,
+		"category": "Na blízko",
+		"defname": "DD_MeleeWeapon_HornedLance"
+	},
+	{
+		"abr": "drachensword",
+		"price": 3667,
+		"category": "Na blízko",
+		"defname": "DD_MeleeWeapon_DrachenSword"
+	},
+	{
+		"abr": "thrumbobattleaxe",
+		"price": 1833,
+		"category": "Na blízko",
+		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
+	},
+	{
+		"abr": "dragonfirelauncher",
+		"price": 5000,
+		"category": "Na dálku",
+		"defname": "DD_Gun_DragonfireLauncher"
+	},
+	{
+		"abr": "doublecrossbow",
+		"price": 500,
+		"category": "Na dálku",
+		"defname": "DD_Bow_DoubleCrossbow"
+	},
+	{
+		"abr": "blackdragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Black_Dragon"
+	},
+	{
+		"abr": "bluedragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Blue_Dragon"
+	},
+	{
+		"abr": "greendragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Green_Dragon"
+	},
+	{
+		"abr": "purpledragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Purple_Dragon"
+	},
+	{
+		"abr": "reddragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Red_Dragon"
+	},
+	{
+		"abr": "whitedragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "White_Dragon"
+	},
+	{
+		"abr": "yellowdragon",
+		"price": 11000,
+		"category": "Zvířata",
+		"defname": "Yellow_Dragon"
+	},
+	{
+		"abr": "golddragon",
+		"price": 13167,
+		"category": "Zvířata",
+		"defname": "Gold_Dragon"
+	},
+	{
+		"abr": "silverdragon",
+		"price": 13167,
+		"category": "Zvířata",
+		"defname": "Silver_Dragon"
+	},
+	{
+		"abr": "jadedragon",
+		"price": 13167,
+		"category": "Zvířata",
+		"defname": "Jade_Dragon"
+	},
+	{
+		"abr": "truedragon",
+		"price": 20000,
+		"category": "Zvířata",
+		"defname": "True_Dragon"
+	},
+	{
+		"abr": "changewing",
+		"price": 5000,
+		"category": "Zvířata",
+		"defname": "Changewing"
+	},
+	{
+		"abr": "deadlynadder",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Deadly_Nadder"
+	},
+	{
+		"abr": "dramillion",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Dramillion"
+	},
+	{
+		"abr": "fury",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Fury"
+	},
+	{
+		"abr": "skrill",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Skrill"
+	},
+	{
+		"abr": "speedstinger",
+		"price": 4167,
+		"category": "Zvířata",
+		"defname": "Speed_Stinger"
+	},
+	{
+		"abr": "stormcutter",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Stormcutter"
+	},
+	{
+		"abr": "triplestryke",
+		"price": 5833,
+		"category": "Zvířata",
+		"defname": "Triple_Stryke"
+	},
+	{
+		"abr": "monstrousnightmare",
+		"price": 5000,
+		"category": "Zvířata",
+		"defname": "Monstrous_Nightmare"
+	},
+	{
+		"abr": "skrillegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "SkrillUnfertilized"
+	},
+	{
+		"abr": "skrillegg(fert.)",
+		"price": 1333,
+		"category": "Vejce (oplo.)",
+		"defname": "EggSkrillFertilized"
+	},
+	{
+		"abr": "furyegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "FuryUnfertilized"
+	},
+	{
+		"abr": "furyegg(fert.)",
+		"price": 1333,
+		"category": "Vejce (oplo.)",
+		"defname": "EggFuryFertilized"
+	},
+	{
+		"abr": "stormcutteregg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "StormcutterUnfertilized"
+	},
+	{
+		"abr": "stormcutteregg(fert.)",
+		"price": 1333,
+		"category": "Vejce (oplo.)",
+		"defname": "EggStormcutterFertilized"
+	},
+	{
+		"abr": "monstrousnightmareegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "NightmareUnfertilized"
+	},
+	{
+		"abr": "monstrousnightmareegg(fert.)",
+		"price": 1333,
+		"category": "Vejce (oplo.)",
+		"defname": "EggNightmareFertilized"
+	},
+	{
+		"abr": "deadlynadderegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "NadderUnfertilized"
+	},
+	{
+		"abr": "deadlynadderegg(fert.)",
+		"price": 1333,
+		"category": "Vejce (oplo.)",
+		"defname": "EggNadderFertilized"
+	},
+	{
+		"abr": "speedstingeregg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "StingerUnfertilized"
+	},
+	{
+		"abr": "speedstingeregg(fert.)",
+		"price": 1000,
+		"category": "Vejce (oplo.)",
+		"defname": "EggStingerFertilized"
+	},
+	{
+		"abr": "dramillionegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "DramillionUnfertilized"
+	},
+	{
+		"abr": "dramillionegg(fert.)",
+		"price": 1000,
+		"category": "Vejce (oplo.)",
+		"defname": "EggDramillionFertilized"
+	},
+	{
+		"abr": "triplestrykeegg(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "StrykeUnfertilized"
+	},
+	{
+		"abr": "triplestrykeegg(fert.)",
+		"price": 1000,
+		"category": "Vejce (oplo.)",
+		"defname": "EggStrykeFertilized"
+	},
+	{
+		"abr": "changewing(unfert.)",
+		"price": 83,
+		"category": "Vejce (neoplo.)",
+		"defname": "ChangewingUnfertilized"
+	},
+	{
+		"abr": "changewingegg(fert.)",
+		"price": 1000,
+		"category": "Vejce (oplo.)",
+		"defname": "EggChangewingFertilized"
+	},
+	{
+		"abr": "skrillscales",
+		"price": 12,
+		"category": "Kůže",
+		"defname": "Leather_Skrill"
+	},
+	{
+		"abr": "furyscales",
+		"price": 17,
+		"category": "Kůže",
+		"defname": "Leather_Fury"
+	},
+	{
+		"abr": "stormcutterscales",
+		"price": 12,
+		"category": "Kůže",
+		"defname": "Leather_Stormcutter"
+	},
+	{
+		"abr": "monstrousnightmarescales",
+		"price": 17,
+		"category": "Kůže",
+		"defname": "Leather_Nightmare"
+	},
+	{
+		"abr": "deadlynadderscales",
+		"price": 12,
+		"category": "Kůže",
+		"defname": "Leather_Nadder"
+	},
+	{
+		"abr": "speedstingerscales",
+		"price": 12,
+		"category": "Kůže",
+		"defname": "Leather_Stinger"
+	},
+	{
+		"abr": "dramillionscales",
+		"price": 17,
+		"category": "Kůže",
+		"defname": "Leather_Dramillion"
+	},
+	{
+		"abr": "triplestrykescales",
+		"price": 17,
+		"category": "Kůže",
+		"defname": "Leather_Stryke"
+	},
+	{
+		"abr": "changewingscales",
+		"price": 12,
+		"category": "Kůže",
+		"defname": "Leather_Changewing"
+	},
+	{
+		"abr": "ambut",
+		"price": 1,
+		"category": "Dragon's Ores",
+		"defname": "Ambut"
+	},
+	{
+		"abr": "cryolium",
+		"price": 3,
+		"category": "Dragon's Ores",
+		"defname": "Cryolium"
+	},
+	{
+		"abr": "cryppo",
+		"price": 2,
+		"category": "Dragon's Ores",
+		"defname": "Cryppo"
+	},
+	{
+		"abr": "hydrotherium",
+		"price": 3,
+		"category": "Dragon's Ores",
+		"defname": "Hydrotherium"
+	},
+	{
+		"abr": "loveli",
+		"price": 1,
+		"category": "Dragon's Ores",
+		"defname": "Loveli"
+	},
+	{
+		"abr": "luxorium",
+		"price": 1,
+		"category": "Dragon's Ores",
+		"defname": "Luxorium"
+	},
+	{
+		"abr": "mythil",
+		"price": 2,
+		"category": "Dragon's Ores",
+		"defname": "Mythil"
+	},
+	{
+		"abr": "penumbrite",
+		"price": 2,
+		"category": "Dragon's Ores",
+		"defname": "Penumbrite"
+	},
+	{
+		"abr": "primoss",
+		"price": 1,
+		"category": "Dragon's Ores",
+		"defname": "Primoss"
+	},
+	{
+		"abr": "smarat",
+		"price": 1,
+		"category": "Dragon's Ores",
+		"defname": "Smarat"
+	},
+	{
+		"abr": "vulcanite",
+		"price": 3,
+		"category": "Dragon's Ores",
+		"defname": "Vulcanite"
+	},
+	{
+		"abr": "medvědímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Bear_Grizzly"
+	},
+	{
+		"abr": "ptačímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Cassowary"
+	},
+	{
+		"abr": "pumímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "panteřímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "rysímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Lynx"
+	},
+	{
+		"abr": "kočičímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Cat"
+	},
+	{
+		"abr": "psímaso(jorkšír)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "morčecímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_GuineaPig"
+	},
+	{
+		"abr": "psímaso(labrador)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_LabradorRetriever"
+	},
+	{
+		"abr": "psímaso(husky)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Husky"
+	},
+	{
+		"abr": "opičímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Monkey"
+	},
+	{
+		"abr": "kuřecímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Chicken"
+	},
+	{
+		"abr": "kachnímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Duck"
+	},
+	{
+		"abr": "krutímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "hovězímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Cow"
+	},
+	{
+		"abr": "bumalopímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "můvolímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Muffalo"
+	},
+	{
+		"abr": "bizonímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Bison"
+	},
+	{
+		"abr": "dromedářímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Dromedary"
+	},
+	{
+		"abr": "kozímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Goat"
+	},
+	{
+		"abr": "losímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Elk"
+	},
+	{
+		"abr": "jačímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Yak"
+	},
+	{
+		"abr": "sobímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Caribou"
+	},
+	{
+		"abr": "koňskémaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Horse"
+	},
+	{
+		"abr": "oslímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Donkey"
+	},
+	{
+		"abr": "slonímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Elephant"
+	},
+	{
+		"abr": "nosorožčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Rhinoceros"
+	},
+	{
+		"abr": "zaječímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Hare"
+	},
+	{
+		"abr": "hmyzímaso",
+		"price": 1,
+		"category": "Maso",
+		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "thrumbímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "kobřímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Cobra"
+	},
+	{
+		"abr": "želvímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "alfabobřímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Alphabeaver"
+	},
+	{
+		"abr": "vepřovémaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Pig"
+	},
+	{
+		"abr": "kozorožčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Ibex"
+	},
+	{
+		"abr": "srnčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "gazelímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Gazelle"
+	},
+	{
+		"abr": "činčilímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Chinchilla"
+	},
+	{
+		"abr": "skopovémaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Sheep"
+	},
+	{
+		"abr": "alpačímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Alpaca"
+	},
+	{
+		"abr": "lenochodímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Megasloth"
+	},
+	{
+		"abr": "kapybařímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "veverčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "krysímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Rat"
+	},
+	{
+		"abr": "třaskrysímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Boomrat"
+	},
+	{
+		"abr": "mývalímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "leguánímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Iguana"
+	},
+	{
+		"abr": "vrčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Warg"
+	},
+	{
+		"abr": "vlčímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "liščímaso",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Fox_Fennec"
+	},
+	{
+		"abr": "lidskémaso",
+		"price": 1,
+		"category": "Maso",
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "lionmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_ArcticLion"
+	},
+	{
+		"abr": "maso(atispec)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Atispec"
+	},
+	{
+		"abr": "crabmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_BoulderMit"
+	},
+	{
+		"abr": "maso(devilsheep)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_DevilSheep"
+	},
+	{
+		"abr": "maso(frostling)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Frostling"
+	},
+	{
+		"abr": "maso(gallatross)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Gallatross"
+	},
+	{
+		"abr": "maso(gigantelope)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Gigantelope"
+	},
+	{
+		"abr": "maso(groundrunner)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Groundrunner"
+	},
+	{
+		"abr": "slugmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Helixien"
+	},
+	{
+		"abr": "meadowavemeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_MeadowAve"
+	},
+	{
+		"abr": "darkmarbledsteak",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_NightMule"
+	},
+	{
+		"abr": "maso(nightling)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Nightling"
+	},
+	{
+		"abr": "maso(overgrowncolossus)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_OvergrownColossus"
+	},
+	{
+		"abr": "raptorshrimpflesh",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_RaptorShrimp"
+	},
+	{
+		"abr": "maso(razorjack)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Razorjack"
+	},
+	{
+		"abr": "maso(ripperhound)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_RipperHound"
+	},
+	{
+		"abr": "lizardmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_RoughPlatedMonitor"
+	},
+	{
+		"abr": "squidmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_SandSquid"
+	},
+	{
+		"abr": "maso(arcturanskyeel)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_AA_Skyeel"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Red_Dragon"
+	},
+	{
+		"abr": "maso(changewing)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Changewing"
+	},
+	{
+		"abr": "maso(deadlynadder)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Deadly_Nadder"
+	},
+	{
+		"abr": "maso(dramillion)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Dramillion"
+	},
+	{
+		"abr": "maso(fury)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Fury"
+	},
+	{
+		"abr": "maso(skrill)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Skrill"
+	},
+	{
+		"abr": "maso(speedstinger)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Speed_Stinger"
+	},
+	{
+		"abr": "maso(stormcutter)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Stormcutter"
+	},
+	{
+		"abr": "maso(triplestryke)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Triple_Stryke"
+	},
+	{
+		"abr": "maso(monstrousnightmare)",
+		"price": 3,
+		"category": "Maso",
+		"defname": "Meat_Monstrous_Nightmare"
+	},
+	{
+		"abr": "neurotrenér(střelba)",
+		"price": 1250,
+		"category": "Neurotrenéry",
+		"defname": "Neurotrainer_Shooting"
+	},
+	{
+		"abr": "neurotrenér(bojzblízka)",
+		"price": 1250,
+		"category": "Neurotrenéry",
+		"defname": "Neurotrainer_Melee"
+	},
+	{
+		"abr": "neurotrenér(konstrukce)",
+		"price": 1250,
+		"category": "Neurotrenéry",
+		"defname": "Neurotrainer_Construction"
+	},
+	{
+		"abr": "neurotrenér(hornictví)",
+		"price": 1250,
+		"category": "Neurotrenéry",
+		"defname": "Neurotrainer_Mining"
+	},
+	{
+		"abr": "neurotrenér(vaření)",
+		"price": 1250,
+		"category": "Neurotrenéry",
+		"defname": "Neurotrainer_Cooking"
+	}
+	],
+	"total": 761
+}
